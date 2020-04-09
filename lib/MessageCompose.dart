@@ -6,11 +6,13 @@ class MessageCompose extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text ("Compose New Message"),
+        title: Text("Compose New Message"),
       ),
-      body: Center(child: Text("IYI KI DOGDUN BABAM",
-      style: TextStyle(color: Colors.white),
-      ),
+      body: Center(
+        child: Text(
+          "epox.com",
+          style: TextStyle(color: Colors.white),
+        ),
       ),
     );
   }
