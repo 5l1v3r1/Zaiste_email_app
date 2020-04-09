@@ -1,0 +1,25 @@
+[
+    {
+        "subject":"MY FIRST MESSAGE",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      },
+      {
+        "subject":"MY SECOND MESSAGE",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      },{
+        "subject":"MY THIRD MESSAGE",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      },{
+        "subject":"MY FORTH MESSAGE",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      },{
+        "subject":"MY FIFTH MESSAGE",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      },{
+        "subject":"MY none MESSAGE",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      },{
+        "subject":"Is this an automaticc function",
+        "body":"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+      }
+]
