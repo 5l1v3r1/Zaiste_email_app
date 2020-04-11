@@ -10,7 +10,7 @@ class MessageCompose extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          "epox.com",
+          "epox.app",
           style: TextStyle(color: Colors.white),
         ),
       ),
