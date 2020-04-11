@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:emailapp/ComposeButton.dart';
 import 'package:emailapp/MessageCompose.dart';
 import 'package:emailapp/MessageDetail.dart';
 import 'package:flutter/material.dart';
@@ -95,17 +96,7 @@ class _MessageListState extends State<MessageList> {
           }
         },
       ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.teal[900],
-        foregroundColor: Colors.white,
-        child: Icon(Icons.add),
-        onPressed: () {
-          Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (BuildContext context) => MessageCompose()));
-        },
-      ),
+      floatingActionButton: ComposeButton(),
     );
   }
 }
